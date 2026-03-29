@@ -1,2 +1,2 @@
 # demo_repo
-demo project
+demo project.
